@@ -33,6 +33,7 @@ export { Texture } from './textures/Texture.js';
 export * from './geometries/Geometries.js';
 export * from './materials/Materials.js';
 export { CompressedTextureLoader } from './loaders/CompressedTextureLoader.js';
+export {STLLoader} from './loaders/three-stl-loader.js';
 export { DataTextureLoader } from './loaders/DataTextureLoader.js';
 export { CubeTextureLoader } from './loaders/CubeTextureLoader.js';
 export { TextureLoader } from './loaders/TextureLoader.js';
